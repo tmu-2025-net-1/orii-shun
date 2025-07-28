@@ -5,11 +5,14 @@
   width: 100%;
 }
 
-.titlebox {
+.contentbox{
   height: 1500px;
   width: 100%;
+}
+
+
+.content {
   display: flex;
-  
 }
 
 .title{
