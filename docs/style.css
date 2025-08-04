@@ -25,26 +25,28 @@
   height:200vh;
 }
 #page2{
-  height:420vh;
+  height:300vh;
 }
 #page3{
-  height:400vh;
+  height:300vh;
 }
 #page4{
-  height:400vh;
+  height:360vh;
 }
 #page5{
-  height:400vh;
+  height:300vh;
 }
 #page6{
-  height:400vh;
+  height:300vh;
 }
 #page7{
-  height:400vh;
+  height:360vh;
 }
 #page8{
   height:100vh;
 }
+
+
 
 .midbox{
     height: 100%;
@@ -54,7 +56,7 @@
     height: 80vh;
 }
 .delayblank{
-    height: 30vh;
+    height: 25vh;
 }
 
 .rectangle {
