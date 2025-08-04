@@ -1,16 +1,19 @@
-
-
-.blank1000 {
-  height: 1000px;
+.blank200 {
+  height: 200vh;
   width: 100%;
 }
-.blank500 {
-  height: 500px;
+
+.blank100 {
+  height: 100vh;
+  width: 100%;
+}
+.blank50 {
+  height: 50vh;
   width: 100%;
 }
 
 .contentbox{
-  height: 1500px;
+  height: 150vh;
   width: 100%;
 }
 
@@ -18,34 +21,56 @@
 .content {
   display: flex;
   flex-direction: row-reverse;
+  justify-content: center;
+  max-height: 100vh;
+  padding-top: 2em;
+  padding-bottom: 2em;
 }
+
+.rectangle {
+  margin-right: 1em;
+}
+
 
 .title{
     font-size: 50px;
     letter-spacing: 10px;
-    
-   
+    padding-right: 2em;
+    padding-left: 2em;
 }
 
 .creator{
     font-size: 30px;
     letter-spacing: 5px;
-   
+    position: absolute;
+    bottom: 5%;
     
 }
 
 .sticky {
   position: sticky;
-  top: 20%;
+  top: 0;
   
+
 }
+
+.text{
+  font-size: 25px;
+  margin-top: 3em;
+
+
+}
+
+#your-text {
+  font-size: 28px;
+  margin-top: 3em;
+}
+
 
 p{
     writing-mode: vertical-rl;
-}
-
-*{
     font-family: serif;
 }
+
 
 
