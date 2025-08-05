@@ -68,12 +68,12 @@
 
 
 .title{
-    font-size: 50px;
+    font-size: 6vh;
    
 }
 
 .credit{
-    font-size: 30px;
+    font-size: 3vh;
     position: relative;
     top: 65%;
 
@@ -87,7 +87,7 @@
 }
 
 .text{
-  font-size: 25px;
+  font-size: 3vh;
   margin-top: 3em;
 
 
